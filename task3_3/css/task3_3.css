@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.box{
+	width: 250px;
+	height: 325px;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 20px;
+}
+.box_title{
+	height: 30px;
+	position: relative;
+	background-color: #f2f2f2;
+	line-height: 30px;
+	font-size: 12px;
+}
+.box_title span{
+	width: 33%;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 1px solid #e4e4e4;
+	border-right: 1px solid #e4e4e4;
+	float: left;
+	cursor: pointer;	
+}
+.box_title span b{
+	font-weight: inherit;
+	padding-left: 20px;
+}
+.box_title span:hover{
+	color: #fff;
+}
+.box_title .select{
+	background-color: #fe4800;
+	border-bottom-color: #fe4800;
+	color: #fff;
+}
+.box_con{
+	font-size: 14px;
+}
+.box_con li b{
+	font-size: 10px;
+	width: 14px;
+	height: 14px;
+	background-color: #c8c7c7;
+	overflow: hidden;
+	float: left;
+	color: #fff;
+	text-align: center;
+	line-height: 14px;
+	margin-top: 1px;
+	margin-right: 5px;
+}
+b.num_1,b.num_2,b.num_3{
+	background-color:#fe4800!important; 
+}
+.box_con a{
+	color: #0da4d3;
+	text-decoration: none;
+}
+.box_con a:hover{
+	color: #525252;
+}
+.box_con .mod{
+	margin: 10px 10px 10px 0px;
+}
+.mod li{
+	margin-top: 10px;
+}

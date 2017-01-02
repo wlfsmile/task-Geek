@@ -1,0 +1,90 @@
+html,body{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 70px;
+}
+.logo{
+	margin-top: 13px;
+	margin-left: 190px;
+}
+.main{
+	width: 100%;
+	height: 450px;
+	border-bottom: 1px solid #aaaaaa;
+	border-top: 1px solid #aaaaaa;
+	background-color: #fbfbfa;
+}
+.main_img{
+	width: 308px;
+	height: 263px;
+	margin-top: 70px;
+	margin-left: 270px;
+	float: left;
+}
+.land{
+	width: 600px;
+	float: left;
+	margin-top: 70px;
+	margin-left: 170px;
+}
+.land p{
+	font-size: 12px;
+	display: inline;
+}
+.welcome{
+	font-size:24px;
+	color: #555;
+	font-family: 微软雅黑;
+	margin-left:70px;
+}
+#text{
+	width: 300px;
+	height:35px;
+	line-height: 40px;
+	border:1px solid #b3b3b3;
+	border-radius: 2px 2px 2px 2px;
+	padding: 0 6px;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+#password{
+	width: 300px;
+	height:35px;
+	line-height: 40px;
+	border:1px solid #b3b3b3;
+	border-radius: 2px 2px 2px 2px;
+	padding: 0 6px;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+#again{
+	width: 300px;
+	height:35px;
+	line-height: 40px;
+	border:1px solid #b3b3b3;
+	border-radius: 2px 2px 2px 2px;
+	padding: 0 6px;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.list p{
+	display: none;
+}
+.list span{
+	letter-spacing: 15px;
+}
+.submit{
+	width: 120px;
+	height: 40px;
+	background-color: #52b201;
+	color: #ffffff;
+	margin-top: 20px;
+	margin-left: 80px;
+}

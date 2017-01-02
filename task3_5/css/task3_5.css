@@ -1,0 +1,15 @@
+a{
+	margin-left: 6px;
+	text-decoration: none;
+}
+#main{
+	margin-left: 600px;
+	margin-bottom: 20px;
+	text-indent:20px;
+}         
+a:hover{
+	color: red;
+}
+#pagin{
+	margin-left: 520px;
+}
